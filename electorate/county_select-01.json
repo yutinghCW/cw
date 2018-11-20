@@ -8,29 +8,27 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 0,
+        "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 590,
-        "income2": 590
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 592,
+        "income2": 592
     },
     {
         "county": "台北市",
         "id": 63000,
         "total": 1,
         "kmt": 1,
-        "ddp": 1,
-        "mg": 0,
+        "ddp": 0,
         "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 740,
-        "income2": 740
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 742,
+        "income2": 742
     },
     {
         "county": "新北市",
@@ -38,14 +36,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 612,
-        "income2": 612
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 611,
+        "income2": 611
     },
     {
         "county": "桃園市",
@@ -53,29 +50,27 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 649,
-        "income2": 649
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 646,
+        "income2": 646
     },
     {
         "county": "新竹縣",
         "id": 10004,
         "total": 1,
         "kmt": 1,
-        "ddp": 1,
-        "mg": 1,
+        "ddp": 0,
         "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 710,
-        "income2": 710
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 708,
+        "income2": 708
     },
     {
         "county": "新竹市",
@@ -83,14 +78,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 751,
-        "income2": 751
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 747,
+        "income2": 747
     }]
 },
 {
@@ -101,15 +95,14 @@
         "id": 10005,
         "total": 1,
         "kmt": 1,
-        "ddp": 0,
-        "mg": 0,
+        "ddp": 1,
         "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 593,
-        "income2": 593
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 590,
+        "income2": 590
     },
     {
         "county": "台中市",
@@ -117,14 +110,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 591,
-        "income2": 591
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 586,
+        "income2": 586
     },
     {
         "county": "彰化縣",
@@ -132,14 +124,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 544,
-        "income2": 544
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 537,
+        "income2": 537
     },
     {
         "county": "南投縣",
@@ -147,14 +138,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 546,
-        "income2": 546
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 538,
+        "income2": 538
     },
     {
         "county": "雲林縣",
@@ -162,14 +152,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 578,
-        "income2": 578
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 573,
+        "income2": 573
     }]
 },
 {
@@ -181,14 +170,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 565,
-        "income2": 565
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 560,
+        "income2": 560
     },
     {
         "county": "嘉義市",
@@ -196,14 +184,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 619,
-        "income2": 619
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 620,
+        "income2": 620
     },
     {
         "county": "台南市",
@@ -211,14 +198,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 598,
-        "income2": 598
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 593,
+        "income2": 593
     },
     {
         "county": "高雄市",
@@ -226,14 +212,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 616,
-        "income2": 616
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 618,
+        "income2": 618
     },
     {
         "county": "屏東縣",
@@ -241,14 +226,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
         "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 574,
-        "income2": 574
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 572,
+        "income2": 572
     }]
 },
 {
@@ -260,29 +244,27 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 571,
-        "income2": 571
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 570,
+        "income2": 570
     },
     {
         "county": "花蓮縣",
         "id": 10015,
         "total": 1,
         "kmt": 1,
-        "ddp": 1,
-        "mg": 0,
-        "none": 0,
+        "ddp": 0,
+        "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 572,
-        "income2": 572
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 566,
+        "income2": 566
     },
     {
         "county": "台東縣",
@@ -290,14 +272,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 575,
-        "income2": 575
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 570,
+        "income2": 570
     }]
 },
 {
@@ -309,14 +290,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 1,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 676,
-        "income2": 676
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 677,
+        "income2": 677
     },
     {
         "county": "金門縣",
@@ -324,14 +304,13 @@
         "total": 1,
         "kmt": 1,
         "ddp": 0,
-        "mg": 0,
         "none": 1,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 708,
-        "income2": 708
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 713,
+        "income2": 713
     },
     {
         "county": "連江縣",
@@ -339,13 +318,12 @@
         "total": 1,
         "kmt": 1,
         "ddp": 0,
-        "mg": 0,
-        "none": 1,
+        "none": 0,
         "elder": 14,
-        "youth": 29,
-        "high_edu1": 39,
-        "high_edu2": 39,
-        "income1": 783,
-        "income2": 783
+        "youth": 30,
+        "high_edu1": 40,
+        "high_edu2": 40,
+        "income1": 781,
+        "income2": 781
     }]
 }]
