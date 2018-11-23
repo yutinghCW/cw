@@ -15,7 +15,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 590,
-        "income2": 590
+        "income2": 590,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "台北市",
@@ -30,7 +33,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 740,
-        "income2": 740
+        "income2": 740,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "新北市",
@@ -45,7 +51,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 612,
-        "income2": 612
+        "income2": 612,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "桃園市",
@@ -60,7 +69,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 649,
-        "income2": 649
+        "income2": 649,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "新竹縣",
@@ -75,7 +87,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 710,
-        "income2": 710
+        "income2": 710,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "新竹市",
@@ -90,7 +105,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 751,
-        "income2": 751
+        "income2": 751,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     }]
 },
 {
@@ -109,7 +127,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 593,
-        "income2": 593
+        "income2": 593,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "台中市",
@@ -124,7 +145,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 591,
-        "income2": 591
+        "income2": 591,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "彰化縣",
@@ -139,7 +163,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 544,
-        "income2": 544
+        "income2": 544,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "南投縣",
@@ -154,7 +181,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 546,
-        "income2": 546
+        "income2": 546,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "雲林縣",
@@ -169,7 +199,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 578,
-        "income2": 578
+        "income2": 578,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     }]
 },
 {
@@ -188,7 +221,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 565,
-        "income2": 565
+        "income2": 565,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "嘉義市",
@@ -203,7 +239,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 619,
-        "income2": 619
+        "income2": 619,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "台南市",
@@ -218,7 +257,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 598,
-        "income2": 598
+        "income2": 598,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "高雄市",
@@ -233,7 +275,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 616,
-        "income2": 616
+        "income2": 616,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "屏東縣",
@@ -248,7 +293,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 574,
-        "income2": 574
+        "income2": 574,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     }]
 },
 {
@@ -267,7 +315,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 571,
-        "income2": 571
+        "income2": 571,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "花蓮縣",
@@ -282,7 +333,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 572,
-        "income2": 572
+        "income2": 572,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "台東縣",
@@ -297,7 +351,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 575,
-        "income2": 575
+        "income2": 575,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     }]
 },
 {
@@ -316,7 +373,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 676,
-        "income2": 676
+        "income2": 676,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "金門縣",
@@ -331,7 +391,10 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 708,
-        "income2": 708
+        "income2": 708,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     },
     {
         "county": "連江縣",
@@ -346,6 +409,9 @@
         "high_edu1": 39,
         "high_edu2": 39,
         "income1": 783,
-        "income2": 783
+        "income2": 783,
+        "rf1": 1,
+        "rf2": 1,
+        "rf3": 1
     }]
 }]
